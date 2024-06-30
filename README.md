@@ -19,7 +19,7 @@
 
 ### GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashaytiwari&show_icons=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact"  width="700" >
+<img src="https://github-readme-stats.vercel.app/api?username=harshsharma&show_icons=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact"  width="700" >
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=harshsharma-eng&theme=tokyonight" width="700">
 <!---
